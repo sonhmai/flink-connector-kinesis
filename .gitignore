@@ -1,3 +1,7 @@
+.idea
+.bsp
+target
+
 # Compiled class file
 *.class
 
